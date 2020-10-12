@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-15" standalone="no"?><uc-export clientvers="11.0.0">
+<VARA OVD_VRName="FREI" data_type="STATIC" name="PCK.AUTOMIC_F5_BIGIP.PRV.VARA.LB_METHOD" replacementmode="2">
+<HEADER state="1">
+<Title/>
+<ArchiveKey1/>
+<ArchiveKey2/>
+<OH_SubType>STATIC</OH_SubType>
+</HEADER>
+<ATTR_VARA state="1">
+<Type>C|Text</Type>
+<lblSource>Static</lblSource>
+<source>STATIC</source>
+<VRName>FREI|Freely selected</VRName>
+<NotFoundErr>0</NotFoundErr>
+<NotFoundDef>1</NotFoundDef>
+<ShareN>0</ShareN>
+<ShareL>0</ShareL>
+<ShareR>0</ShareR>
+<MaxValue_C>1024</MaxValue_C>
+<CheckMax_C>0</CheckMax_C>
+<uppercase>0</uppercase>
+<sortColumn>0</sortColumn>
+<sortDirection>0</sortDirection>
+</ATTR_VARA>
+<VARA state="1">
+<Variables>
+<row Name="LB_METHOD_DYNAMIC_RATIO" Value="LB_METHOD_DYNAMIC_RATIO" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_DYNAMIC_RATIO_MEMBER" Value="LB_METHOD_DYNAMIC_RATIO_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_FASTEST_APP_RESPONSE" Value="LB_METHOD_FASTEST_APP_RESPONSE" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_FASTEST_NODE_ADDRESS" Value="LB_METHOD_FASTEST_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_L3_ADDR" Value="LB_METHOD_L3_ADDR" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_LEAST_CONNECTION_MEMBER" Value="LB_METHOD_LEAST_CONNECTION_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_LEAST_CONNECTION_NODE_ADDRESS" Value="LB_METHOD_LEAST_CONNECTION_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_LEAST_SESSIONS" Value="LB_METHOD_LEAST_SESSIONS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_OBSERVED_MEMBER" Value="LB_METHOD_OBSERVED_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_OBSERVED_NODE_ADDRESS" Value="LB_METHOD_OBSERVED_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_PREDICTIVE_MEMBER" Value="LB_METHOD_PREDICTIVE_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_PREDICTIVE_NODE_ADDRESS" Value="LB_METHOD_PREDICTIVE_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_RATIO_LEAST_CONNECTION_MEMBER" Value="LB_METHOD_RATIO_LEAST_CONNECTION_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_RATIO_LEAST_CONNECTION_NODE_ADDRESS" Value="LB_METHOD_RATIO_LEAST_CONNECTION_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_RATIO_MEMBER" Value="LB_METHOD_RATIO_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_RATIO_NODE_ADDRESS" Value="LB_METHOD_RATIO_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_RATIO_SESSION" Value="LB_METHOD_RATIO_SESSION" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_ROUND_ROBIN" Value="LB_METHOD_ROUND_ROBIN" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_UNKNOWN" Value="LB_METHOD_UNKNOWN" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_WEIGHTED_LEAST_CONNECTION_MEMBER" Value="LB_METHOD_WEIGHTED_LEAST_CONNECTION_MEMBER" Value1="" Value2="" Value3="" Value4=""/>
+<row Name="LB_METHOD_WEIGHTED_LEAST_CONNECTION_NODE_ADDRESS" Value="LB_METHOD_WEIGHTED_LEAST_CONNECTION_NODE_ADDRESS" Value1="" Value2="" Value3="" Value4=""/>
+</Variables>
+</VARA>
+<DOCU_Docu state="1" type="text">
+<DOC/>
+</DOCU_Docu>
+</VARA>
+</uc-export>

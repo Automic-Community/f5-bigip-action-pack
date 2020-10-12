@@ -1,0 +1,14 @@
+# Package Build Configuration 
+name: PCK.AUTOMIC_F5_BIGIP
+
+source: ae
+  
+# binary object resource mapping will be defined here
+binaries:
+  
+  - object: RESOURCES/LIBS/PCK.AUTOMIC_BIGIPTOOL.PRV.STORE
+    resources: 
+      - name: BIGIPTOOL.JAR
+        type: BINARY
+        path: tools/aratools/target/BigIpTool.JAR
+        version: 1.0.0

@@ -61,7 +61,7 @@ Example: **apm build -y -H AE_HOST -c 106 -u TEST/TEST -pw password -d /director
 			
 ###### Copyright and License: 
 
-Broadcom does not support, maintain or warrant Solutions, Templates, Actions and any other content published on the Community and is subject to Broadcom Community Terms and Conditions (https://community.broadcom.com/termsandconditions).
+Broadcom does not support, maintain or warrant Solutions, Templates, Actions and any other content published on the Community and is subject to Broadcom Community [Terms and Conditions](https://community.broadcom.com/termsandconditions)
 
 ###### Questions or Need Help? 
 
